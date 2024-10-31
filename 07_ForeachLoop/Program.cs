@@ -107,6 +107,7 @@ namespace _07_ForeachLoop
             //    Console.WriteLine("----------------------------");
             //}
             #endregion
+
             Console.Read();
         }
     }
